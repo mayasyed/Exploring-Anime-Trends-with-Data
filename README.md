@@ -1,5 +1,3 @@
-# Anime 101: Using Data to Find My First Anime
-
 # 📊 Anime 101: Using Data to Find My First Anime
 
 👩‍💻 I’ve never watched anime before, but my partner loves it.  
